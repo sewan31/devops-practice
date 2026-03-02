@@ -10,3 +10,11 @@ This project demonstrates a complete DevOps workflow using:
 - Github Actions (CI/CD)
 - Nomad
 - Grafana Loki
+
+## DOCKER
+
+Build:
+docker build -t hello-devops .
+
+Run:
+docker run hello-devops
