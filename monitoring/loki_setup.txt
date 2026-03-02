@@ -1,0 +1,10 @@
+Loki Setup Instructions
+
+Started Loki with:
+docker run -d --name=loki -p 3100:3100 grafana/loki:latest
+
+Viewed container logs using:
+docker logs hello-devops
+
+Loki runs on:
+http://localhost:3100
