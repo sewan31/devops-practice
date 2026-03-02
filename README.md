@@ -1,3 +1,4 @@
+[![CI Pipeline](https://github.com/sewan31/devops-practice/actions/workflows/ci.yml/badge.svg)](https://github.com/sewan31/devops-practice/actions/workflows/ci.yml)
 # devops-practice
 
 NAME: Sean Paolo Eniceo
